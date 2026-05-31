@@ -137,13 +137,6 @@ Trust your growth.
 
 You have more potential than you can currently see.`;
 
-export type StrangerMessage = {
-  id: string;
-  type: "advice" | "encouragement" | "feedback" | "opportunity";
-  message: string;
-  timestamp: string;
-};
-
 export const navLinks = [
   { label: "Coordinates", href: "#coordinates" },
   { label: "Journey", href: "#journey" },
