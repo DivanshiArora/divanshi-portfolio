@@ -8,9 +8,10 @@ export const siteConfig = {
     "I am currently learning DSA in Java and Web Development. I enjoy exploring new ideas, meeting new people, sketching, presenting ideas, and saying yes to opportunities that help me grow.",
   email: "divanshiarora18@gmail.com",
   links: {
-    linkedin: "https://linkedin.com/in/divanshi-arora",
-    instagram: "https://instagram.com/divanshi.arora",
-    twitter: "https://x.com/divanshi_arora",
+    linkedin: "https://www.linkedin.com/in/divanshi-arora-",
+    instagram:
+      "https://www.instagram.com/diva.nshi.arora?igsh=MXU5NnlzcmZubzhxYw==",
+    twitter: "https://x.com/Divanshi_Arora_",
   },
 } as const;
 
